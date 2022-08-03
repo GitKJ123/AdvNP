@@ -17,6 +17,7 @@ imageio=2.16
 
 1. Build the environment
 2. Prepare folders which contains watermark samples
+2. Models are available at  https://drive.google.com/file/d/1RxKx6GvVCRjn-piMawZH6YR13sUdzb7Z/view?usp=sharing
 3. For pics in single folder: run **relight_single_folder.py**
 4. For pics in multiple folder : run **relight_multi_folder.py**
 5. You can adjust the SH-light directions in folder **target lightings** to get better attack rates to fit your tasks, different lighting direction may lead to various accuarcy results.
