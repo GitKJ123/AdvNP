@@ -1,6 +1,5 @@
 ## AdvNP
-An example of **Rethinking the Vulnerability of DNN Watermarking: Are**
-**Watermarks Robust against Naturalness-aware Perturbations?**   (to be presented at the **ACM MM 2022**).
+An example of AdvNP dnn-watermarking disruption attack(to be presented at the **ACM MM 2022**).
 
 ## Requirement
 
